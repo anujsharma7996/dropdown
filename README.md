@@ -6,10 +6,11 @@ Tools Used: ReactJS
 ## Features
 
 1. Simple drop-down menu component which takes an array input to fill the menu.
-2. Selected option in the menu is displayed on the menu for feedback.
-3. Included CSS file with variables for easy color changes.
-4. Array index used as key for mapping.
-5. Using two local states, one for managing the show/hide ability of the menu and one for handling the selected option.
+2. Component is a functional component which uses local states.
+3. Selected option in the menu is displayed on the menu for feedback.
+4. Included CSS file with variables for easy color changes.
+5. Array index used as key for mapping.
+6. Using two local states, one for managing the show/hide ability of the menu and one for handling the selected option.
 
 ## How to use?
 
