@@ -1,0 +1,60 @@
+html {
+  --color-text: white;
+
+  /* Color for selected background */
+  --color-primary: #343f3e;
+
+  /* Color for the items/options */
+  --color-secondary: #505a5b;
+
+  /* Color for highlight */
+  --color-highlight: #8f91a2;
+
+  /* Color for menu box-shadow */
+  --color-shadow: #c2c2c2;
+}
+
+.main-container {
+  top: 30px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.dropdown-head {
+  box-shadow: 3px 3px 10px 6px var(--color-shadow);
+  width: 400px;
+  height: 40px;
+  background-color: var(--color-primary);
+  color: var(--color-text);
+  padding: 10px 0 0 10px;
+  box-sizing: border-box;
+  margin-bottom: 5px;
+  border-radius: 10px 10px 0 0;
+  cursor: pointer;
+}
+
+.dropdown-container {
+  box-shadow: 3px 3px 10px 6px var(--color-shadow);
+  width: 400px;
+  box-sizing: border-box;
+  background-color: var(--color-secondary);
+  color: var(--color-text);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  border-radius: 0 0 10px 10px;
+}
+
+.dropdown-items {
+  box-sizing: border-box;
+  width: 100%;
+  height: 45px;
+  padding: 10px;
+}
+
+.dropdown-items:hover {
+  cursor: pointer;
+  background: var(--color-highlight);
+}
