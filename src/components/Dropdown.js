@@ -2,7 +2,10 @@ import { useState } from "react";
 import "../DropdownStyle.css";
 
 function Dropdown({ items }) {
+  // State to show/hide the menu
   const [dropdown, setDropdown] = useState(false);
+  
+  // State to show the selected option
   const [select, setSelect] = useState("Select");
   return (
     <div className="main-container">
