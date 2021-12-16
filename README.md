@@ -1,3 +1,8 @@
+A drop-down menu component
+https://anujsharma7996.github.io/dropdown/
+
+Tools Used: ReactJS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
