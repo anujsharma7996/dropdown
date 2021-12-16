@@ -3,6 +3,21 @@ https://anujsharma7996.github.io/dropdown/
 
 Tools Used: ReactJS
 
+##Features
+
+1. Simple drop-down menu component which takes an array input to fill the menu.
+2. Selected option in the menu is displayed on the menu for feedback.
+3. Included CSS file with variables for easy color changes.
+4. Array index used as key for mapping.
+5. Using two local states, one for managing the show/hide ability of the menu and one for handling the selected option.
+
+## How to use?
+
+1. Simply import the Dropdown.js file in your project (have both the javascirpt and css file in the same folder).
+2. Pass in the options in form of an array to the dropdown component.
+3. The options will be displayed on screen.
+4. Use the mapped key to add features if needed.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
