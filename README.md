@@ -3,7 +3,7 @@ https://anujsharma7996.github.io/dropdown/
 
 Tools Used: ReactJS
 
-##Features
+## Features
 
 1. Simple drop-down menu component which takes an array input to fill the menu.
 2. Selected option in the menu is displayed on the menu for feedback.
