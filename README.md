@@ -9,8 +9,7 @@ Tools Used: ReactJS
 2. Component is a functional component which uses local states.
 3. Selected option is displayed on the menu for feedback.
 4. Included CSS file with color variables for easy color changes.
-5. Array index used as key for mapping.
-6. Using two local states, one for managing the show/hide ability of the menu and one for handling the selected option.
+5. Using two local states, one for managing the show/hide ability of the menu and one for handling the selected option.
 
 ## How to use?
 
