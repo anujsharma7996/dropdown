@@ -20,13 +20,7 @@ Tools Used: ReactJS
 4. Use the mapped key to add features if needed.
 
 ## Folder Structure
-├──src
-   ├──components
-      ├──Dropdown.js
-   ├──App.js
-   ├──DropdownStyle.css
-   ├──index.css
-   ├──index.js
+![Folder Structure](/folderstructure.JPG)
 
 # Getting Started with Create React App
 
