@@ -19,6 +19,15 @@ Tools Used: ReactJS
 3. The options will be displayed on screen.
 4. Use the mapped key to add features if needed.
 
+## Folder Structure
+src
+  -components
+    --Dropdown.js
+  -App.js
+  -DropdownStyle.css
+  -index.css
+  -index.js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
