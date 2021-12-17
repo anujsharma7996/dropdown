@@ -7,14 +7,14 @@ Tools Used: ReactJS
 
 1. Simple drop-down menu component which takes an array input to fill the menu.
 2. Component is a functional component which uses local states.
-3. Selected option in the menu is displayed on the menu for feedback.
-4. Included CSS file with variables for easy color changes.
+3. Selected option is displayed on the menu for feedback.
+4. Included CSS file with color variables for easy color changes.
 5. Array index used as key for mapping.
 6. Using two local states, one for managing the show/hide ability of the menu and one for handling the selected option.
 
 ## How to use?
 
-1. Simply import the Dropdown.js file in your project (have both the javascirpt and css file in the same folder).
+1. Import the Dropdown.js file in your project (have both the javascirpt and css file in the same folder).
 2. Pass in the options in form of an array to the dropdown component.
 3. The options will be displayed on screen.
 4. Use the mapped key to add features if needed.
